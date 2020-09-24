@@ -1,0 +1,72 @@
+
+a{
+font-weight:bold;
+	text-decoration: none;
+	color: inherit;
+}
+
+
+
+.line{
+    font-weight:bold;
+    color: #b33939;
+
+}
+ul {
+	padding-top:10px;
+	float: right;
+}
+
+li {
+
+	display: inline-block;
+	padding-left: 25px;
+
+}
+
+.left{
+	float:left;
+}
+.redColor{
+	color: yellow;
+	}
+
+
+
+
+
+
+
+
+.left{
+	float:left;
+}
+
+
+#word2{
+font-weight:bold;
+font-size: 50px;
+color: #b33939;
+text-line: 12px;
+text-decoration: underline;
+padding-top:150px;
+
+   }
+
+
+
+li2 {
+
+	font-size: 25px;
+
+}
+
+#work{
+text-align: center;
+font-weight:bold;
+padding-top:175px;
+}
+
+
+
+

@@ -1,0 +1,104 @@
+
+/* body1 */
+#add1{
+height: 200px;
+margin: 0 auto;
+color:blue;
+font_size: 36px;
+text-align: center;
+font-weight:bold;
+
+}
+/* list */
+a{
+font-weight:bold;
+	text-decoration: none;
+	color: inherit;
+}
+
+
+
+.line{
+    font-weight:bold;
+    color: #b33939;
+
+}
+ul {
+	padding-top:10px;
+	float: right;
+}
+
+li {
+
+	display: inline-block;
+	padding-left: 25px;
+
+}
+
+.left{
+	float:left;
+}
+.redColor{
+	color: yellow;
+}
+/*end list and body1 */
+
+/* body2  */
+#add2{
+background-image: url('imge1/design.jpg');
+background-attachment: fixed;
+ background-position: bottom ;
+height: 450px;
+color:#ffffff;
+padding-top:175px;
+}
+
+#word1{
+text-align: center;
+font-size: 100px;
+}
+
+#word2{
+font-weight:bold;
+font-size: 50px;
+color: #b33939;
+text-line: 12px;
+text-decoration: underline;
+
+}
+
+
+
+
+#word3{
+font-size:25px;
+
+}
+
+
+#word4{
+font-weight:bold;
+font-size: 50px;
+color: #b33939;
+text-decoration: underline;
+
+}
+
+li2 {
+
+	font-size: 25px;
+
+}
+
+
+#work{
+text-align: center;
+font-weight:bold;
+padding-top:175px;
+}
+
+
+
+
+
+
